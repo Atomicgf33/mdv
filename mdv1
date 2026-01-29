@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.IOException;
-// cadu da come cu
+
 public class Main {
     public static void main(String[] args) throws IOException {
 
